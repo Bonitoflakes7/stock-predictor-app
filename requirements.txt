@@ -2,7 +2,7 @@ streamlit==1.41.1
 pandas==1.5.3
 numpy==1.23.5
 scikit-learn==1.6.1
-keras==3.9.2
+keras==2.10.0
 tensorflow==2.10.0
 yfinance==0.2.61
 matplotlib==3.7.1
