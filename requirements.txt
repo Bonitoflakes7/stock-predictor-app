@@ -3,7 +3,7 @@ pandas
 numpy==1.24.3
 scikit-learn
 keras
-tensorflow==2.12
+tensorflow
 yfinance
 matplotlib
 plotly
